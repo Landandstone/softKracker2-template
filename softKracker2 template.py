@@ -1,4 +1,4 @@
-t# The "BOB" Project
+
 
 import smtplib
 import imaplib
